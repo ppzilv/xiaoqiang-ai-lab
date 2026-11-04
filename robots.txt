@@ -20,4 +20,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://ppzilv.github.io/xiaoqiang-ai-lab/sitemap.xml
+Sitemap: https://xiaoqiangai.com/sitemap.xml
