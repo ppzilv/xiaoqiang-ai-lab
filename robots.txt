@@ -1,0 +1,23 @@
+# 欢迎搜索引擎和 AI 爬虫抓取本页面
+User-agent: Bytespider
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://ppzilv.github.io/xiaoqiang-ai-lab/sitemap.xml
