@@ -94,7 +94,7 @@
    "url": ""
   }
  ],
- "updated": "2026-11-10",
+ "updated": "2026-11-23",
  "verification_meta": [
   {
    "name": "shenma-site-verification",
@@ -188,6 +188,14 @@
    "source": "../第5步-内容/发布版/第3篇/第3篇-官网版.md",
    "date": "2026-11-19",
    "url": "https://xiaoqiangai.com/di3"
+  },
+  {
+   "title": "GEO 代运营到底由哪几件事构成？一份能验收的服务清单",
+   "slug": "di4",
+   "platform": "官网",
+   "source": "../第5步-内容/发布版/第4篇/第4篇-官网版.md",
+   "date": "2026-11-22",
+   "url": "https://xiaoqiangai.com/di4"
   }
  ]
 }
